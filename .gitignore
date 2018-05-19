@@ -103,3 +103,7 @@ ENV/
 .vscode
 *.png
 !docs/**/*.png
+bin1data
+bin2data
+bin3data
+
