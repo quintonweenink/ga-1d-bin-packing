@@ -1,6 +1,6 @@
-### Multiple Sequence Alignment using Multi-Objective Particle Swarm Optimization
+### Offline one-dimensional bin packing using a genetic algorithm
 
-*Abstract:* Investigate how to achieve Multiple Sequence Alignment using multi-objective particle swarm optimization. While many multi-objective optimisation techniques exist this paper will investigate the performance of vector evaluated particle swarm optimization to optimise the required objectives.
+*Abstract:* None
 
 #### Research paper
 
